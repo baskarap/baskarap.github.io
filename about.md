@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I write code for food while I actually don't really like doing that, I am enjoying solving problems that are very trivial and require no feelings. I decided to write this blog so in the future, I know how dumb the younger version of me and how much I grow.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[baskarapatria17@gmail.com](mailto:baskarapatria17@gmail.com)
